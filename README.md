@@ -20,5 +20,5 @@ sudo go run /path-to-your-file/main.go
 
 If all goes well, your DIN sync'd device should now be playing whatever is currently in its sequencer at 120 bpm.
 
-All of this code is available under an MIT license (see accompanying LICENSE file). Please feel free to do what you want with it. 
+All of this code is available under an MIT license (see accompanying [LICENSE](https://github.com/ceberly/rpidinsync/blob/master/LICENSE) file). Please feel free to do what you want with it. 
 I am especially interested in contributions that will help turn the Raspberry Pi into a MIDI/DIN sync bridge.
