@@ -70,7 +70,7 @@ func main() {
 	}()
 
 	go func() {
-		runClock(clockPin, 220) // 120 bpm
+		runClock(clockPin, 120) // 120 bpm
 	}()
 
 	// two seconds seems to be enough for the TR-606 clock to find the right tempo
