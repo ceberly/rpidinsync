@@ -9,7 +9,7 @@ There are two ways to run the example code.
 
 Download the ['run' binary](https://github.com/ceberly/rpidinsync/blob/master/run) and use `sudo` to execute it on your Raspberry Pi. Root privileges are necessary because the Pi uses Linux's /sys/class exporting to read and write from the GPIO pins.
 
-To run the code from source, first clone this repository onto your Raspberry Pi or just download src/main.go
+To run the code from source, first clone this repository onto your Raspberry Pi or just download [src/main.go](https://github.com/ceberly/rpidinsync/blob/master/src/main.go)
 
 The example code depends on (and was inspired by) https://github.com/davecheney/gpio
 
