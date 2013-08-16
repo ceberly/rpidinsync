@@ -1,7 +1,7 @@
 rpidinsync
 ==========
 
-Raspberry PI GPIO DIN sync example using Go. This code accompanies a blog post that I wrote (), that you should almost certainly read before you do anything else.
+Raspberry PI GPIO DIN sync example using Go. This code accompanies a blog post that I wrote (http://posts.behindthecurve.net/post/58075811062/controlling-the-sequencer-of-a-tr-606-with-a-raspberry), that you should almost certainly read before you do anything else.
 
 Connect the Raspberry Pi's GPIO25 pin to the CLOCK pin of your DIN sync device. Connect the GPIO24 pin to the START/STOP pin of your DIN sync device. Connect one of the Raspberry Pi GROUND pins to the GND pin of your DIN sync device.
 
